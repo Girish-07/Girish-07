@@ -1,6 +1,6 @@
 # Hi, I'm Girish! 👋
 
-BCA student interested in web development, software engineering, and problem-solving.
+Interested in web development, software engineering, and problem-solving.
 
 ### Tech Stack
 Java | C | C++ | JavaScript | React.js | Node.js | Express.js | Spring Boot | MongoDB | MySQL
